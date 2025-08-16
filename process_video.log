@@ -1,0 +1,234 @@
+2025-08-10 22:22:35,941 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-10 22:22:35,942 [33mPress CTRL+C to quit[0m
+2025-08-10 22:22:35,944  * Restarting with stat
+2025-08-10 22:22:36,839  * Debugger is active!
+2025-08-10 22:22:36,850  * Debugger PIN: 538-865-341
+2025-08-10 22:25:15,159  * Detected change in 'C:\\Users\\asus\\Desktop\\AI-Gen_VideoCheck\\baturprj-main\\baturprj-main\\app\\VLC_AI_Detection.py', reloading
+2025-08-10 22:25:15,227  * Restarting with stat
+2025-08-10 22:28:01,005 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-10 22:28:01,005 [33mPress CTRL+C to quit[0m
+2025-08-10 22:28:01,007  * Restarting with stat
+2025-08-10 22:28:01,841  * Debugger is active!
+2025-08-10 22:28:01,850  * Debugger PIN: 538-865-341
+2025-08-10 22:30:33,094  * Detected change in 'C:\\Users\\asus\\Desktop\\AI-Gen_VideoCheck\\baturprj-main\\baturprj-main\\app\\VLC_AI_Detection.py', reloading
+2025-08-10 22:30:33,185  * Restarting with stat
+2025-08-10 22:30:34,120  * Debugger is active!
+2025-08-10 22:30:34,131  * Debugger PIN: 538-865-341
+2025-08-10 22:30:37,208  * Detected change in 'C:\\Users\\asus\\Desktop\\AI-Gen_VideoCheck\\baturprj-main\\baturprj-main\\app\\VLC_AI_Detection.py', reloading
+2025-08-10 22:30:37,278  * Restarting with stat
+2025-08-10 22:30:46,870 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-10 22:30:46,870 [33mPress CTRL+C to quit[0m
+2025-08-10 22:30:46,873  * Restarting with stat
+2025-08-10 22:30:47,881  * Debugger is active!
+2025-08-10 22:30:47,891  * Debugger PIN: 538-865-341
+2025-08-10 23:00:53,311  * Detected change in 'C:\\Users\\asus\\Desktop\\AI-Gen_VideoCheck\\baturprj-main\\baturprj-main\\app\\VLC_AI_Detection.py', reloading
+2025-08-10 23:00:53,400  * Restarting with stat
+2025-08-10 23:00:54,505  * Debugger is active!
+2025-08-10 23:00:54,517  * Debugger PIN: 538-865-341
+-------------2025-08-10 23:03:25,154 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-10 23:03:25,154 [33mPress CTRL+C to quit[0m
+2025-08-10 23:03:25,156  * Restarting with stat
+2025-08-10 23:03:26,152  * Debugger is active!
+2025-08-10 23:03:26,162  * Debugger PIN: 538-865-341
+2025-08-10 23:07:17,643  * Detected change in 'C:\\Users\\asus\\Desktop\\AI-Gen_VideoCheck\\baturprj-main\\baturprj-main\\app\\VLC_AI_Detection.py', reloading
+2025-08-10 23:07:17,727  * Restarting with stat
+2025-08-10 23:07:30,348 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-10 23:07:30,348 [33mPress CTRL+C to quit[0m
+2025-08-10 23:07:30,350  * Restarting with stat
+2025-08-10 23:07:31,200  * Debugger is active!
+2025-08-10 23:07:31,210  * Debugger PIN: 538-865-341
+2025-08-10 23:08:37,767 Program is working...
+2025-08-10 23:08:37,767 Function is called
+2025-08-10 23:08:37,806 127.0.0.1 - - [10/Aug/2025 23:08:37] "[35m[1mPOST /process_video_and_ai_detection HTTP/1.1[0m" 500 -
+2025-08-10 23:18:20,800  * Detected change in 'C:\\Users\\asus\\Desktop\\AI-Gen_VideoCheck\\baturprj-main\\baturprj-main\\app\\VLC_AI_Detection.py', reloading
+2025-08-10 23:18:20,888  * Restarting with stat
+2025-08-10 23:18:21,850  * Debugger is active!
+2025-08-10 23:18:21,860  * Debugger PIN: 538-865-341
+2025-08-10 23:18:31,880 Received request to /process_video_and_ai_detection
+2025-08-10 23:18:31,901 Saved uploaded video to: C:\nginx\php\uploads\1754857111_72f6ce816ea54c6cb2d7df950ee0559d_2025-07-07_05-27-36.mp4
+2025-08-10 23:18:31,929 Error getting video duration: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-08-10 23:18:31,933 127.0.0.1 - - [10/Aug/2025 23:18:31] "[35m[1mPOST /process_video_and_ai_detection HTTP/1.1[0m" 500 -
+2025-08-10 23:19:23,594 Received request to /process_video_and_ai_detection
+2025-08-10 23:19:23,610 Saved uploaded video to: C:\nginx\php\uploads\1754857163_72ea34affb064cd689f055a8e2302d06_2025-07-07_05-27-36.mp4
+2025-08-10 23:19:23,631 Error getting video duration: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-08-10 23:19:23,632 127.0.0.1 - - [10/Aug/2025 23:19:23] "[35m[1mPOST /process_video_and_ai_detection HTTP/1.1[0m" 500 -
+2025-08-10 23:19:32,713 Received request to /process_video_and_ai_detection
+2025-08-10 23:19:32,722 Saved uploaded video to: C:\nginx\php\uploads\1754857172_963d1dd8035d4c7385569eac8057420b_2025-07-07_05-27-36.mp4
+2025-08-10 23:19:32,742 Error getting video duration: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-08-10 23:19:32,743 127.0.0.1 - - [10/Aug/2025 23:19:32] "[35m[1mPOST /process_video_and_ai_detection HTTP/1.1[0m" 500 -
+2025-08-10 23:19:44,631 Received request to /process_video_and_ai_detection
+2025-08-10 23:19:54,819 Received request to /process_video_and_ai_detection
+2025-08-10 23:20:01,870 Saved uploaded video to: C:\nginx\php\uploads\1754857201_c8111b389ea446b992701df47af49814_2025-07-07_05-27-36.mp4
+2025-08-10 23:20:01,896 Error getting video duration: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-08-10 23:20:01,898 127.0.0.1 - - [10/Aug/2025 23:20:01] "[35m[1mPOST /process_video_and_ai_detection HTTP/1.1[0m" 500 -
+2025-08-10 23:20:02,007 Saved uploaded video to: C:\nginx\php\uploads\1754857201_9a07c7911d7b44ab9c60f3a8dd62894b_2025-07-07_05-31-46.mp4
+2025-08-10 23:20:02,026 Error getting video duration: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-08-10 23:20:02,028 127.0.0.1 - - [10/Aug/2025 23:20:02] "[35m[1mPOST /process_video_and_ai_detection HTTP/1.1[0m" 500 -
+2025-08-10 23:20:18,580 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-10 23:20:18,580 [33mPress CTRL+C to quit[0m
+2025-08-10 23:20:18,582  * Restarting with stat
+2025-08-10 23:20:19,432  * Debugger is active!
+2025-08-10 23:20:19,442  * Debugger PIN: 538-865-341
+2025-08-10 23:20:32,691 Received request to /process_video_and_ai_detection
+2025-08-10 23:20:32,704 Saved uploaded video to: C:\nginx\php\uploads\1754857232_4aaa460893944d14b247363cc2ee0704_2025-07-07_05-27-36.mp4
+2025-08-10 23:20:32,725 Error getting video duration: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-08-10 23:20:32,726 127.0.0.1 - - [10/Aug/2025 23:20:32] "[35m[1mPOST /process_video_and_ai_detection HTTP/1.1[0m" 500 -
+2025-08-10 23:32:11,863  * Detected change in 'C:\\Users\\asus\\Desktop\\AI-Gen_VideoCheck\\baturprj-main\\baturprj-main\\app\\VLC_AI_Detection.py', reloading
+2025-08-10 23:32:11,936  * Restarting with stat
+2025-08-10 23:32:13,048  * Debugger is active!
+2025-08-10 23:32:13,059  * Debugger PIN: 538-865-341
+2025-08-10 23:32:40,140 Received request to /process_video_and_ai_detection
+2025-08-10 23:32:40,153 Saved uploaded video to: C:\nginx\php\uploads\1754857960_f9189685c54c4101937eebdc97a92aca_2025-07-07_05-27-36.mp4
+2025-08-10 23:32:40,172 Error getting video duration: [WinError 2] Sistem belirtilen dosyayý bulamýyor
+2025-08-10 23:32:40,174 127.0.0.1 - - [10/Aug/2025 23:32:40] "[35m[1mPOST /process_video_and_ai_detection HTTP/1.1[0m" 500 -
+2025-08-10 23:33:45,578  * Detected change in 'C:\\Users\\asus\\Desktop\\AI-Gen_VideoCheck\\baturprj-main\\baturprj-main\\app\\VLC_AI_Detection.py', reloading
+2025-08-10 23:33:45,728  * Restarting with stat
+2025-08-10 23:33:46,928  * Debugger is active!
+2025-08-10 23:33:46,939  * Debugger PIN: 538-865-341
+2025-08-10 23:33:56,862 Received request to /process_video_and_ai_detection
+2025-08-10 23:33:56,890 Saved uploaded video to: C:\nginx\php\uploads\1754858036_a20cb449048d4542a8f16d54aa54deaa_2025-07-07_05-27-36.mp4
+2025-08-10 23:33:56,890 Error getting video duration: ffprobe executable not found at: C:\ffprobe.exe
+2025-08-10 23:33:56,893 127.0.0.1 - - [10/Aug/2025 23:33:56] "[35m[1mPOST /process_video_and_ai_detection HTTP/1.1[0m" 500 -
+2025-08-10 23:34:34,687  * Detected change in 'C:\\Users\\asus\\Desktop\\AI-Gen_VideoCheck\\baturprj-main\\baturprj-main\\app\\VLC_AI_Detection.py', reloading
+2025-08-10 23:34:34,757  * Restarting with stat
+2025-08-10 23:34:35,916  * Debugger is active!
+2025-08-10 23:34:35,927  * Debugger PIN: 538-865-341
+2025-08-10 23:34:42,482 Received request to /process_video_and_ai_detection
+2025-08-10 23:34:42,493 Saved uploaded video to: C:\nginx\php\uploads\1754858082_d079f2e61d0d4a1bb513e2eb7f8459d1_2025-07-07_05-27-36.mp4
+2025-08-10 23:34:42,976 Running ffmpeg: ffmpeg -y -i C:\nginx\php\uploads\1754858082_d079f2e61d0d4a1bb513e2eb7f8459d1_2025-07-07_05-27-36.mp4 -vf fps=1/1.6649999999999998 -vsync vfr C:\Users\asus\Desktop\VLCProject\Frames\frame_%04d.png
+2025-08-10 23:34:43,046 127.0.0.1 - - [10/Aug/2025 23:34:43] "[35m[1mPOST /process_video_and_ai_detection HTTP/1.1[0m" 500 -
+2025-08-10 23:34:59,876 Received request to /process_video_and_ai_detection
+2025-08-10 23:34:59,887 Saved uploaded video to: C:\nginx\php\uploads\1754858099_82b6b9f2c4c54965907ed148df0b3ae1_2025-07-07_05-27-36.mp4
+2025-08-10 23:34:59,959 Running ffmpeg: ffmpeg -y -i C:\nginx\php\uploads\1754858099_82b6b9f2c4c54965907ed148df0b3ae1_2025-07-07_05-27-36.mp4 -vf fps=1/1.6649999999999998 -vsync vfr C:\Users\asus\Desktop\VLCProject\Frames\frame_%04d.png
+2025-08-10 23:34:59,988 127.0.0.1 - - [10/Aug/2025 23:34:59] "[35m[1mPOST /process_video_and_ai_detection HTTP/1.1[0m" 500 -
+2025-08-10 23:35:58,214  * Detected change in 'C:\\Users\\asus\\Desktop\\AI-Gen_VideoCheck\\baturprj-main\\baturprj-main\\app\\VLC_AI_Detection.py', reloading
+2025-08-10 23:35:58,306  * Restarting with stat
+2025-08-10 23:35:59,426  * Debugger is active!
+2025-08-10 23:35:59,443  * Debugger PIN: 538-865-341
+2025-08-10 23:36:04,186 Received request to /process_video_and_ai_detection
+2025-08-10 23:36:04,196 Saved uploaded video to: C:\nginx\php\uploads\1754858164_21929ce916b74e189a549f6d0ecf611e_2025-07-07_05-27-36.mp4
+2025-08-10 23:36:04,272 Running ffmpeg: C:\ffmpeg\ffmpeg.exe -y -i C:\nginx\php\uploads\1754858164_21929ce916b74e189a549f6d0ecf611e_2025-07-07_05-27-36.mp4 -vf fps=1/1.6649999999999998 -vsync vfr C:\Users\asus\Desktop\VLCProject\Frames\frame_%04d.png
+2025-08-10 23:36:06,693 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:07,819 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:07,824 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:08,695 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:08,700 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:09,544 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:09,547 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:10,474 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:10,477 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:11,336 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:11,341 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:12,113 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:12,116 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:13,135 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:13,139 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:14,250 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:14,252 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:15,249 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:15,252 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:16,270 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:16,273 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:17,484 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:17,487 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:18,319 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:18,322 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:19,180 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:19,183 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:20,111 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:20,114 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:21,103 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:21,106 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:22,011 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:22,015 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:23,013 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:23,017 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:23,906 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:23,910 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:24,790 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:24,793 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-10 23:36:25,624 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-10 23:36:25,627 Processed 20 frames. Average ai_generated: 0.018500
+2025-08-10 23:36:25,630 127.0.0.1 - - [10/Aug/2025 23:36:25] "POST /process_video_and_ai_detection HTTP/1.1" 200 -
+2025-08-11 18:36:49,588 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-11 18:36:49,588 [33mPress CTRL+C to quit[0m
+2025-08-11 18:36:49,591  * Restarting with stat
+2025-08-11 18:36:50,426  * Debugger is active!
+2025-08-11 18:36:50,434  * Debugger PIN: 538-865-341
+2025-08-11 18:38:06,603  * Detected change in 'C:\\Users\\asus\\Desktop\\AI-Gen_VideoCheck\\baturprj-main\\baturprj-main\\app\\VLC_AI_Detection.py', reloading
+2025-08-11 18:38:06,683  * Restarting with stat
+2025-08-11 18:38:07,620  * Debugger is active!
+2025-08-11 18:38:07,627  * Debugger PIN: 538-865-341
+2025-08-11 18:38:31,009  * Detected change in 'C:\\Users\\asus\\Desktop\\AI-Gen_VideoCheck\\baturprj-main\\baturprj-main\\app\\VLC_AI_Detection.py', reloading
+2025-08-11 18:38:31,074  * Restarting with stat
+2025-08-11 18:38:32,034  * Debugger is active!
+2025-08-11 18:38:32,044  * Debugger PIN: 538-865-341
+2025-08-11 18:45:08,793  * Detected change in 'C:\\Users\\asus\\Desktop\\AI-Gen_VideoCheck\\baturprj-main\\baturprj-main\\app\\VLC_AI_Detection.py', reloading
+2025-08-11 18:45:08,870  * Restarting with stat
+2025-08-11 18:45:09,811  * Debugger is active!
+2025-08-11 18:45:09,818  * Debugger PIN: 538-865-341
+2025-08-11 18:46:46,784 127.0.0.1 - - [11/Aug/2025 18:46:46] "OPTIONS /process_video_and_ai_detection HTTP/1.1" 200 -
+2025-08-11 18:46:46,790 Received request to /process_video_and_ai_detection
+2025-08-11 18:46:46,811 Saved uploaded video to: C:\nginx\php\uploads\1754927206_28e546fa68234399a0cf3dc86cd78a0e_2025-07-07_05-27-36.mp4
+2025-08-11 18:46:47,489 Running ffmpeg: C:\ffmpeg\ffmpeg.exe -y -i C:\nginx\php\uploads\1754927206_28e546fa68234399a0cf3dc86cd78a0e_2025-07-07_05-27-36.mp4 -vf fps=1/1.6649999999999998 -vsync vfr C:\Users\asus\Desktop\VLCProject\Frames\frame_%04d.png
+2025-08-11 18:46:50,734 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:46:51,959 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:46:51,970 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:46:52,875 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:46:52,885 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:46:53,809 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:46:53,813 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:46:54,747 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:46:54,750 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:46:55,705 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:46:55,709 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:46:56,583 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:46:56,587 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:46:57,499 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:46:57,503 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:46:58,340 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:46:58,343 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:46:59,242 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:46:59,245 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:47:00,301 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:47:00,305 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:47:01,060 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:47:01,063 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:47:02,013 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:47:02,015 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:47:03,110 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:47:03,113 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:47:04,187 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:47:04,191 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:47:04,970 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:47:04,976 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:47:05,876 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:47:05,881 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:47:06,885 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:47:06,890 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:47:07,684 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:47:07,687 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:47:08,553 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:47:08,557 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:47:09,308 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:47:09,311 Processed 20 frames. Average ai_generated: 0.018500
+2025-08-11 18:47:09,314 127.0.0.1 - - [11/Aug/2025 18:47:09] "POST /process_video_and_ai_detection HTTP/1.1" 200 -
+2025-08-11 18:49:48,257  * Detected change in 'C:\\Users\\asus\\Desktop\\AI-Gen_VideoCheck\\baturprj-main\\baturprj-main\\app\\VLC_AI_Detection.py', reloading
+2025-08-11 18:49:48,317  * Restarting with stat
+2025-08-11 18:49:49,304  * Debugger is active!
+2025-08-11 18:49:49,311  * Debugger PIN: 538-865-341
+2025-08-11 18:50:17,815 127.0.0.1 - - [11/Aug/2025 18:50:17] "OPTIONS /process_video_and_ai_detection HTTP/1.1" 200 -
+2025-08-11 18:50:17,820 Received request to /process_video_and_ai_detection
+2025-08-11 18:50:17,832 Saved uploaded video to: C:\nginx\php\uploads\1754927417_e899db8864b24c168071047e70ea67d0_2025-07-07_05-27-36.mp4
+2025-08-11 18:50:17,922 Running ffmpeg: C:\ffmpeg\ffmpeg.exe -y -i C:\nginx\php\uploads\1754927417_e899db8864b24c168071047e70ea67d0_2025-07-07_05-27-36.mp4 -vf fps=1/33.3 -vsync vfr C:\Users\asus\Desktop\VLCProject\Frames\frame_%04d.png
+2025-08-11 18:50:20,351 Starting new HTTPS connection (1): api.sightengine.com:443
+2025-08-11 18:50:21,980 https://api.sightengine.com:443 "POST /1.0/check.json?models=genai&api_user=819870886&api_secret=Ev7qjY9qPvxBR3P5TjzcnQPK5FJptQsy HTTP/1.1" 200 None
+2025-08-11 18:50:21,981 Processed 1 frames. Average ai_generated: 0.020000
+2025-08-11 18:50:21,984 127.0.0.1 - - [11/Aug/2025 18:50:21] "POST /process_video_and_ai_detection HTTP/1.1" 200 -
